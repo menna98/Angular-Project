@@ -69,6 +69,10 @@
             "production": {
               "browserTarget": "KotopediaUI:build:production"
             },
+          "staging": {
+            "browserTarget": "KotopediaUI:build:staging"
+            }
+            ,
             "development": {
               "browserTarget": "KotopediaUI:build:development"
             }
